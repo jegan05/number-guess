@@ -1,0 +1,19 @@
+*{
+    background-color: violet;
+    text-align: center;
+}
+#title{
+    color:darkblue;
+}
+#heading{
+    color: brown;
+}
+#textBox{
+    background-color: lavenderblush;
+}
+#text
+{
+    text-align: center;
+    transform: translate(-50px,-160px);
+    background-color: transparent;
+}
